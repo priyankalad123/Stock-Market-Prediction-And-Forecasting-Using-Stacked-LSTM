@@ -1,1 +1,2 @@
 # Stock-Market-Prediction-And-Forecasting-Using-Stacked-LSTM
+This project focuses on predicting and forecasting stock market trends using Stacked Long Short-Term Memory (LSTM) neural networks. The Jupyter notebook includes code and analysis for implementing the predictive model. The Stacked LSTM architecture is employed to capture and learn complex patterns in stock market data, enabling more accurate predictions. Check out the notebook for insights into the methodology and results.
